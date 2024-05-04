@@ -1,0 +1,12 @@
+
+    {
+          "title":"Love is War",
+          "options":{
+                "1":"Save",
+                "2":"Load",
+                "3":"Return to Main Menu",
+                "4":"Quit"
+          },
+          "bg":"bg/Futon_Room.png",
+          "music":"music/track2.mp3"
+    }

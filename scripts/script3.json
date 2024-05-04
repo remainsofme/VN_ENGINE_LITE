@@ -1,0 +1,184 @@
+{
+    "0": {
+          "menu": false,
+          "choice": true,
+          "cg": false,
+          "title":"Love is War",
+          "option":{
+                "1":"Save",
+                "2":"Load",
+                "3":"Return to Main Menu",
+                "4":"Quit"
+          },
+          "bg":"bg/Sitting_Room.png",
+          "music":"music/track2.mp3"
+    },
+    "1": {
+          "menu": false,
+          "choice": false,
+          "cg": false,
+          "name": "Wu",
+          "message": "i can not stand myself.#I want to kill myself. #How are you? Life is so tiresome. Oh what can I do, I have been broken in to 3",
+          "bg": "bg/Futon_Room.png",
+          "sp": {
+                "0": "sp/Miho_WinterUni_Smile.png",
+                "1": "sp/Miho_WinterUni_Smile.png",
+                "2": ""
+          },
+          "music": "music/track2.mp3"
+    },
+    "2": {
+          "menu": false,
+          "choice": false,
+          "cg": false,
+          "name": "Sayori",
+          "message": "i really want to hang myself",
+          "bg": "bg/Futon_Room.png",
+          "sp": {
+                "0": "sp/Miho_WinterUni_Smile.png",
+                "1": "sp/Miho_WinterUni_Open_Blush.png",
+                "2": "sp/Miho_WinterUni_Smile.png"
+          },
+          "music": "music/track1.mp3"
+    },
+    "3": {
+          "menu": false,
+          "choice": false,
+          "cg": false,
+          "name": "Sayori",
+          "message": "LIFE IS REALLY A BURDON",
+          "bg": "bg/Futon_Room.png",
+          "sp": {
+                "0": "sp/Miho_WinterUni_Smile.png",
+                "1": "",
+                "2": ""
+          },
+          "music": "music/track1.mp3"
+    },
+    "4": {
+          "menu": false,
+          "choice": false,
+          "cg": false,
+          "name": "Sayori",
+          "message": "What do you think of me",
+          "bg": "bg/Futon_Room.png",
+          "sp": {
+                "0": "sp/Miho_WinterUni_Smile.png",
+                "1": "",
+                "2": ""
+          },
+          "music": "music/track1.mp3"
+    },
+    "5": {
+          "menu": false,
+          "choice": false,
+          "cg": false,
+          "name": "Sayori",
+          "message": "See, i can break myself into 3",
+          "bg": "bg/Futon_Room.png",
+          "sp": {
+                "0": "sp/Miho_WinterUni_Smile.png",
+                "1": "sp/Miho_WinterUni_Open_Blush.png",
+                "2": "sp/Miho_WinterUni_Smile.png"
+          },
+          "music": "music/track1.mp3"
+    },
+    "6": {
+          "menu": false,
+          "choice": false,
+          "cg": false,
+          "name": "Sayori",
+          "message": "I am really a super hero you know",
+          "bg": "bg/Futon_Room.png",
+          "sp": {
+                "0": "sp/Miho_WinterUni_Smile.png",
+                "1": "sp/Miho_WinterUni_Open_Blush.png",
+                "2": "sp/Miho_WinterUni_Smile.png"
+          },
+          "music": "music/track1.mp3"
+    },
+    "7": {
+          "menu": false,
+          "choice": false,
+          "cg": false,
+          "name": "Sayori",
+          "message": "but you should under stand it is all a bad joke",
+          "bg": "bg/Futon_Room.png",
+          "sp": {
+                "0": "sp/Miho_WinterUni_Smile.png",
+                "1": "sp/Miho_WinterUni_Open_Blush.png",
+                "2": "sp/Miho_WinterUni_Smile.png"
+          },
+          "music": "music/track1.mp3"
+    },
+    "8": {
+          "menu": false,
+          "choice": false,
+          "cg": false,
+          "name": "Sayori",
+          "message": "Here i am back, to my usual self",
+          "bg": "bg/Futon_Room.png",
+          "sp": {
+                "0": "sp/Miho_WinterUni_Smile.png",
+                "1": "",
+                "2": ""
+          },
+          "music": "music/track1.mp3"
+    },
+    "9": {
+          "menu": false,
+          "choice": false,
+          "cg": false,
+          "name": "Sayori",
+          "message": "Weak and untouchable",
+          "bg": "bg/Futon_Room.png",
+          "sp": {
+                "0": "sp/Miho_WinterUni_Smile.png",
+                "1": "",
+                "2": ""
+          },
+          "music": "music/track1.mp3"
+    },
+    "10": {
+          "menu": false,
+          "choice": false,
+          "cg": false,
+          "name": "Sayori",
+          "message": "Haha, what will you think about me",
+          "bg": "bg/Futon_Room.png",
+          "sp": {
+                "0": "sp/Miho_WinterUni_Open_Blush.png",
+                "1": "",
+                "2": ""
+          },
+          "music": "music/track1.mp3"
+    },
+    "11": {
+          "menu": false,
+          "choice": false,
+          "cg": false,
+          "name": "Sayori",
+          "message": "The love that i have for you",
+          "bg": "bg/Futon_Room.png",
+          "sp": {
+                "0": "sp/Miho_WinterUni_Smile.png",
+                "1": "",
+                "2": ""
+          },
+          "music": "music/track1.mp3"
+    },
+    "12": {
+          "menu": false,
+          "choice": false,
+          "cg": false,
+          "name": "Sayori",
+          "message": "I have to say goodbye",
+          "bg": "bg/Futon_Room.png",
+          "sp": {
+                "0": "sp/Miho_WinterUni_Smile.png",
+                "1": "",
+                "2": ""
+          },
+          "music": "music/track1.mp3"
+    }
+}
